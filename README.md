@@ -1,146 +1,31 @@
-![](https://i.imgur.com/xG74tOh.png)
+<h1>Projeto criado utilizando apenas HTML e CSS.</h1>
 
-# Desafio | Front-end - Módulo 2
+<h2>Página inicial</h2>
 
-O objetivo deste exercício é replicar o website encontrado no arquivo 'Desafio front academy 1.fig'.
+<h3>Aqui temos o cabeçalho, onde temos links para navegação da página.</h3>
 
-## Páginas obrigatórias
+- Cabeçalho ![](https://i.imgur.com/Vwj9U0y.png)
 
-- [Home](#Home)
 
-## Páginas opcionais
 
-- [Portfolio](#Portfolio)
-- [Portfolio - 01 - Manage](#Portfolio---01---Manage)
-- [Portfolio - 02 - Bookmark](#Portfolio---02---Bookmark)
-- [Portfolio - 03 - Insure](#Portfolio---03---Insure)
-- [Portfolio - 04 - Fylo](#Portfolio---04---Fylo)
-- [Contato](#Contato)
+<h3>A Hero Section é uma seção de apresentação do website, onde há um botão que direciona o usuário para uma a seção Sobre Mim.</h3>
 
-### Home
+- Seção de heróis ![](https://i.imgur.com/tjYO6R6.png)
 
-Seções
 
-- Header ![X](https://i.imgur.com/Vwj9U0y.png)
 
-- Hero Section ![X](https://i.imgur.com/tjYO6R6.png)
+<h3> Esta seção é referente a apresentação do criador, onde temos um botão para direcionar para um portifólio.</h3>
 
-- Sobre Section ![X](https://i.imgur.com/KHPaEWW.png)
+- Sobre a seção ![](https://i.imgur.com/KHPaEWW.png)
 
-- Contato Section ![X](https://i.imgur.com/e88URFi.png)
 
-- Footer ![X](https://i.imgur.com/P06m37L.png)
 
-### Portfolio
+<h3> Esta é uma pequena parte que apresenta outro botão para ser encaminhado para a página de contato.</h3>
 
-Seções
+- Seção Contato ![](https://i.imgur.com/e88URFi.png)
 
-- Header ![](https://i.imgur.com/1pDIzMz.png)
 
-- Manage Section ![](https://i.imgur.com/jHweGIb.png)
 
-- Bookmark Section ![](https://i.imgur.com/uTpctrq.png)
+<h3>Por fim, temos o rodapé que fica no final da página onde as navegações são as mesmas do cabeçalhoco.</h3>
+- Rodapé ![](https://i.imgur.com/P06m37L.png)
 
-- Insure Section ![](https://i.imgur.com/BsAWB7m.png)
-
-- Fylo Section ![](https://i.imgur.com/W9s2afk.png)
-
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
-
-- Footer ![](https://i.imgur.com/P06m37L.png)
-
-### Portfolio - 01 - Manage
-
-Seções
-
-- Header ![](https://i.imgur.com/1pDIzMz.png)
-
-- Hero Section ![](https://i.imgur.com/JYY2lNG.png)
-
-- Descrição Projeto Aside ![](https://i.imgur.com/uEgRim6.png)
-
-- Main Section
-  ![](https://i.imgur.com/O1JyZtK.png)
-
-- Links Section ![](https://i.imgur.com/zGJMDOE.png)
-
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
-
-- Footer ![](https://i.imgur.com/P06m37L.png)
-
-### Portfolio - 02 - Bookmark
-
-Seções
-
-- Header ![](https://i.imgur.com/1pDIzMz.png)
-
-- Hero Section ![](https://i.imgur.com/ag3Madi.png)
-
-- Descrição Projeto Aside
-  ![](https://i.imgur.com/JDvgptu.png)
-
-- Main Section
-  ![](https://i.imgur.com/T41K6z3.png)
-
-- Links Section ![](https://i.imgur.com/UpCLzFL.png)
-
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
-
-- Footer ![](https://i.imgur.com/P06m37L.png)
-
-### Portfolio - 03 - Insure
-
-Seções
-
-- Header ![](https://i.imgur.com/1pDIzMz.png)
-
-- Hero Section ![](https://i.imgur.com/yJMQ0iJ.png)
-
-- Descrição Projeto Aside
-  ![](https://i.imgur.com/zofNYva.png)
-
-- Main Section
-  ![](https://i.imgur.com/BMMJXlz.png)
-
-- Links Section ![](https://i.imgur.com/9fYN4lI.png)
-
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
-
-- Footer ![](https://i.imgur.com/P06m37L.png)
-
-### Portfolio - 04 - Fylo
-
-Seções
-
-- Header ![](https://i.imgur.com/1pDIzMz.png)
-
-- Hero Section ![](https://i.imgur.com/7IcYjiF.png)
-
-- Descrição Projeto Aside
-  ![](https://i.imgur.com/fKuRKYX.png)
-
-- Main Section
-  ![](https://i.imgur.com/MQC6y17.png)
-
-- Links Section ![](https://i.imgur.com/3WGHl8V.png)
-
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
-
-- Footer ![](https://i.imgur.com/P06m37L.png)
-
-### Contato
-
-Seções
-
-- Header ![](https://i.imgur.com/ubDorki.png)
-
-- Entre em contato Section ![](https://i.imgur.com/4GLs5Iw.png)
-
-- Contato Section ![](https://i.imgur.com/VvO2m7w.png)
-
-- Footer ![](https://i.imgur.com/P06m37L.png)
-
-
-**LEMBRE-SE**: Feito é melhor do que perfeito, mas não faça mal feito!!!
-
-###### tags: `front-end` `módulo 2` `HTML` `CSS` `desafio`
